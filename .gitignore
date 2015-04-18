@@ -1,0 +1,9 @@
+.metadata/
+.settings/
+.project
+default.properties
+bin/
+/*/build.xml
+/*/local.properties
+*.swp
+*~
